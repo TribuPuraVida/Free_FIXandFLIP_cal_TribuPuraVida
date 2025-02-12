@@ -1,6 +1,8 @@
-@import url("https://www.fontspace.com/a-big-deal-font-f51277");
-@import url("https://www.fontspace.com/agoestoesan-font-f14421");
-@import url("https://www.fontspace.com/aaargh-font-f11328");
-@import url("https://www.fontspace.com/amccd-font-f25168");
+/* DELETE these lines: */
+@import url('https://www.fontspace.com/a-big-deal-font-f51277');
+@import url('https://www.fontspace.com/agoestoesan-font-f14421');
+@import url('https://www.fontspace.com/aaargh-font-f11328');
+@import url('https://www.fontspace.com/amccd-font-f25168');
 
-/* [Rest of your CSS] */
+/* ADD these instead: */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto&display=swap');
